@@ -26,6 +26,19 @@ nav ul li:hover {
     background-color: rgba(0, 217, 255, 0.884);
 }
 
+.description {
+    text-align: center;
+    font-size: 30px;
+    padding:50px;
+}
+
+.paris-places {
+    text-align: center;
+    font-size: 30px;
+    padding: 100px;
+
+}
+
 .image {
     display: flex;
     height: 300px;
@@ -36,6 +49,7 @@ nav ul li:hover {
 .parent {
     display: flex;
     justify-content: space-evenly;
+    padding: 100px
 
 }
 
