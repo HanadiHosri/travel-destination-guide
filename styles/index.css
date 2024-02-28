@@ -30,10 +30,16 @@ nav ul li:hover {
 
 .hero-section {
     font-size: 40px;
+    font-weight: bold;
+    color: black;
     text-align: center;
     padding: 50px;
-    background-image: url("images/world map.jpeg");
-
+    background-image: url("../images/world map.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px
+    
+    
 }
 
 .image {
