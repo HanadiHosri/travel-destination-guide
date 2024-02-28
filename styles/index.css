@@ -17,14 +17,10 @@ nav {
 nav ul {
     list-style-type: none;
     display: flex;
-    gap: 20px;
-    
+    gap: 20px;  
     
 }
 
-nav ul li {
-    text-align: end;
-}
 
 nav ul li:hover {
     background-color: rgba(0, 217, 255, 0.884);
@@ -34,4 +30,9 @@ nav ul li:hover {
     font-size: 40px;
     text-align: center;
 
+}
+
+.image {
+    height: 300px;
+    width: 300px;
 }
