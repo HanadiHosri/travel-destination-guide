@@ -25,3 +25,21 @@ nav ul {
 nav ul li:hover {
     background-color: rgba(0, 217, 255, 0.884);
 }
+
+.image {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    
+}
+
+.parent {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+footer {
+    text-align: center;
+    
+}
