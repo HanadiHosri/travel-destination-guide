@@ -56,10 +56,11 @@ nav ul li:hover {
 }
 
 .destinations {
-    padding: 200px;
+    padding: 10px;
 }
 
 footer {
     text-align: center;
+    padding: 30px;
     
 }
